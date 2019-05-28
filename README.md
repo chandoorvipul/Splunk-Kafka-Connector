@@ -7,6 +7,11 @@
   * How to import data static files into splunk
   * how to visualize data and create dashboards
 * Splunk Connect for Kafka – Connecting Apache Kafka with Splunk
+## Contact
+- Vipul chandoor (s530459@nwmissouri.edu)
+- Saivarun Illendula (s530464@nwmissouri.edu)
+- Krishnaveni Karri (s530471@nwmissouri.edu)
+- Santhosh Bonala (s530859@nwmissouri.edu)
 
 ## What is splunk 
 Splunk is the software for searching, monitoring, analyzing the big data though web interface. Splunk can capture live data and it can genarate graphs, reports, alerts, dashboards and visualizations.  
@@ -138,11 +143,6 @@ Start a console consumer to read from the kafka topic we created earlier using t
 * https://kafka.apache.org/intro
 
 
-## Contact
-- Vipul chandoor (s530459@nwmissouri.edu)
-- Saivarun Illendula (s530464@nwmissouri.edu)
-- Krishnaveni Karri (s530471@nwmissouri.edu)
-- Santhosh Bonala (s530859@nwmissouri.edu)
 
 ## 
 - [Published Page](https://santhoshbonala.github.io/Splunk-Kafka-Connector/) 
